@@ -18,7 +18,7 @@ To control the brightness of an LED using a Potentiometer and PWM (Pulse Width M
 
 # Circuit Diagram
 <img width="422" height="747" alt="image" src="https://github.com/user-attachments/assets/2498e3f0-af14-438d-88ca-d11733bcb0cb" />
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/71fc6ac6-a04f-4f4b-b8a3-52c6e398f0c9" />
+<img width="1357" height="501" alt="image" src="https://github.com/user-attachments/assets/8367e01a-3aef-4348-85a0-8412b5bafa36" />
 
 ---
 # Procedure
